@@ -41,6 +41,15 @@ The super keys for Linux and OS X are the Windows and command key respectively.
 ## Settings
 Default settings can be seen by navigating to `Preferences -> Packages Settings -> AdvancedNewFile - Default`. To modify the default settings, navigate to `Preferences -> Packages Settings -> AdvancedNewFile -> User`.
 
+##Utils
+
+###PHP
+For more easy way to writing php code, I use this packages, that you can find and install by package control:
+
+- [PHP Completions Kit](https://github.com/gerardroche/sublime-phpck)
+- [php-snippets](https://github.com/gerardroche/sublime-php-snippets)
+- [php-grammar](https://github.com/gerardroche/sublime-php-grammar)
+
 For more information visit official page [https://github.com/skuroda/Sublime-AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
 
 ##Packages
