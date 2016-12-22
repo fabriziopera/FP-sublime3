@@ -38,6 +38,8 @@ The super keys for Linux and OS X are the Windows and command key respectively.
 
 `shift+super+alt+n`: In addition to creating the folders specified, new folders will also contain an `__init__.py` file.
 
+For more information visit official page [https://github.com/skuroda/Sublime-AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
+
 ## Settings
 Default settings can be seen by navigating to `Preferences -> Packages Settings -> AdvancedNewFile - Default`. To modify the default settings, navigate to `Preferences -> Packages Settings -> AdvancedNewFile -> User`.
 
@@ -50,7 +52,12 @@ For more easy way to writing php code, I use this packages, that you can find an
 - [php-snippets](https://github.com/gerardroche/sublime-php-snippets)
 - [php-grammar](https://github.com/gerardroche/sublime-php-grammar)
 
-For more information visit official page [https://github.com/skuroda/Sublime-AdvancedNewFile](https://github.com/skuroda/Sublime-AdvancedNewFile)
+###Saving file
+
+[auto-save](https://github.com/jamesfzhang/auto-save)
+
+I use auto-save plugin to automatically save open files after modification.
+You can install them by package control
 
 ##Packages
 
