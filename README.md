@@ -51,6 +51,8 @@ For more easy way to writing php code, I use this packages, that you can find an
 - [PHP Completions Kit](https://github.com/gerardroche/sublime-phpck)
 - [php-snippets](https://github.com/gerardroche/sublime-php-snippets)
 - [php-grammar](https://github.com/gerardroche/sublime-php-grammar)
+- [PHP Getters and Setters](https://github.com/francodacosta/sublime-php-getters-setters)
+-[PHP Companion](https://github.com/erichard/SublimePHPCompanion)
 
 ###Saving file
 
