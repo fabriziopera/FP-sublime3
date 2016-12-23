@@ -1,20 +1,26 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "bs3",
+			"selector": "text.html"
+		}
+	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Material.tmTheme",
+	"color_scheme": "Packages/Atomic Color Scheme/Atomic-dark.tmTheme",
 	"fade_fold_buttons": false,
 	"font-face": "Fira Code",
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"PHP",
 		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"rulers":
-	[
-		80
-	],
-	"theme": "Material-Theme.sublime-theme",
-	"wrap_width": 80,
-	"auto_complete_triggers": [{"selector": "text.html", "characters": "<"},{"selector": "text.html", "characters": "bs3"}]
+	"theme": "Material-Theme.sublime-theme"
 }
